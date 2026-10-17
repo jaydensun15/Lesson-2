@@ -1,0 +1,9 @@
+.DS_Store
+.vscode/
+
+# Local build outputs
+/main
+/main.dSYM/
+
+# Unrelated nested workspace
+/playground/
