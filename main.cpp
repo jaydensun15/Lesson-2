@@ -10,9 +10,9 @@ using namespace std;
  - The curly braces {} indicate the start and end of the main function
 */
 
-int main() {
+str main() {
   cout << "Hello World!";
-  return 0;
+  return "Tung Tung Tung Satuff";
 }
 
 
